@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **JPCarvalhinho/Hello- World** is a test place for me to try out git connections.
 
 #0 prepare local machine
@@ -15,4 +15,4 @@ git config -global user.name "Name Surname"
 #2 Configure GIT user.email
 git config --global user.email "email available in "https://github.com/settings/emails"
 
--->
+
